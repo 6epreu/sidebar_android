@@ -1,0 +1,14 @@
+sample/out/
+lib/gen/
+lib/ant.properties
+lib/build.xml
+lib/lib.iml
+lib/local.properties
+lib/proguard-project.txt
+sample/.idea/
+sample/ant.properties
+sample/build.xml
+sample/gen/
+sample/local.properties
+sample/proguard-project.txt
+sample/sample.iml
